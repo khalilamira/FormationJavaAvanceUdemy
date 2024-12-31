@@ -1,9 +1,9 @@
-package tn.amira.mains;
+package tn.amira.exception.mains.mains;
 
-import tn.amira.exceptions.entites.InvalidNumbersContents;
-import tn.amira.exceptions.entites.InvalidSizePassword;
-import tn.amira.exceptions.entites.PasswodException;
-import tn.amira.exceptions.entites.UpperCaseInvalidException;
+import tn.amira.exception.entites.InvalidNumbersContents;
+import tn.amira.exception.entites.InvalidSizePassword;
+import tn.amira.exception.entites.PasswodException;
+import tn.amira.exception.entites.UpperCaseInvalidException;
 
 import java.util.Scanner;
 

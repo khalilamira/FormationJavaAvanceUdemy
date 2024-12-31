@@ -1,9 +1,7 @@
-package tn.amira.mains;
+package tn.amira.exception.mains.mains;
 
-import tn.amira.exceptions.entites.MyBankApplication;
+import tn.amira.exception.entites.MyBankApplication;
 
-import java.io.FileReader;
-import java.io.FileWriter;
 import java.io.IOException;
 
 public class Main {

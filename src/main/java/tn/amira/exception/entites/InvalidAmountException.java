@@ -1,4 +1,4 @@
-package tn.amira.exceptions.entites;
+package tn.amira.exception.entites;
 
 // checked -> Exception
 //unchecked -> RuntimeException

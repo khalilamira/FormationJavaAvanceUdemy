@@ -1,6 +1,4 @@
-package tn.amira.exceptions.entites;
-
-import java.io.IOException;
+package tn.amira.exception.entites;
 
 public class BankAccount {
     private double balance;

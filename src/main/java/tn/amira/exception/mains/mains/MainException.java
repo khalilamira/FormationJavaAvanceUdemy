@@ -1,4 +1,4 @@
-package tn.amira.mains;
+package tn.amira.exception.mains.mains;
 
 import java.io.FileReader;
 import java.io.FileWriter;

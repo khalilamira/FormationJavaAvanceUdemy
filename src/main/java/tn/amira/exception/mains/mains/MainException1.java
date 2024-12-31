@@ -1,4 +1,4 @@
-package tn.amira.mains;
+package tn.amira.exception.mains.mains;
 
 public class MainException1 {
     public static void main(String[] args) {
